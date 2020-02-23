@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/widget">
+        <file>picture/icon.jpg</file>
+        <file>picture/bg.jpg</file>
+        <file>picture/button.jpg</file>
+        <file>picture/label.jpg</file>
+    </qresource>
+    <qresource prefix="/history">
+        <file>picture/bg_history.png</file>
+    </qresource>
+    <qresource prefix="/game">
+        <file>picture/gameOver.jpg</file>
+    </qresource>
+    <qresource prefix="/music"/>
+</RCC>
